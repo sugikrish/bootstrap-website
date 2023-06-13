@@ -1,0 +1,22 @@
+
+.section
+{
+    
+    background-image: url(images/banner-bg.png); 
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 625px;
+     }
+
+.card
+{
+    background:transparent;
+    height: 400px;
+    /* width: 1100px;  */
+}
+#carouselExampleRide
+{
+    border-style: dashed;
+   
+}
+ 
